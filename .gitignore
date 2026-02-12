@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.venv/
+venv/
+env/
+
+*.egg-info/
+dist/
+build/
+
+# trained models are environment-specific, retrain locally
+models/*.joblib
+
+# collected data is user-specific
+data/*.csv
+
+.vscode/
+.idea/
+*.swp
+*~
+
+.DS_Store
+Thumbs.db
+
+.env
+.ipynb_checkpoints/
+.pytest_cache/

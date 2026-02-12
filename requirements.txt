@@ -1,0 +1,26 @@
+# GestuBot Dependencies
+# ======================
+# Low-latency hand gesture recognition system
+
+# Core computer vision
+opencv-python>=4.5.0
+
+# Machine learning
+scikit-learn>=1.0.0
+numpy>=1.20.0
+
+# Model persistence
+joblib>=1.0.0
+
+# Data handling
+pandas>=1.3.0
+
+# Visualization (for training metrics)
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Keyboard control
+pyautogui>=0.9.50
+
+# WebSocket for 3D visualization
+websockets>=10.0
