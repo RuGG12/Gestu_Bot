@@ -41,7 +41,7 @@ GestuBot/
 ### Install
 
 ```bash
-git clone https://github.com/<your-username>/GestuBot.git
+git clone https://github.com/RuGG12/Gestu_Bot
 cd GestuBot
 pip install -r requirements.txt
 ```
@@ -122,3 +122,4 @@ Prints per-stage breakdown (preprocess, contour detection, classification, debou
 ## License
 
 MIT
+
